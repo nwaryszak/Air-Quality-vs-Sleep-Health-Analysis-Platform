@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measurements>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>9.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T01:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T03:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>9.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T02:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T04:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T03:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T05:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T04:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T06:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>9.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T05:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T07:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T06:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T08:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T07:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T09:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T08:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T10:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T09:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T11:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T10:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T12:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T11:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T13:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T12:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T14:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T13:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T15:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T14:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T16:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T15:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T17:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T16:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T18:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T17:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T19:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T18:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T20:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T19:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T21:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T20:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T22:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T21:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-12T23:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>10.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T22:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T00:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>11.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-12T23:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T01:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>11.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T00:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T02:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>17</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T01:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T03:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>18</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T02:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T04:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>18.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T03:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T05:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>19.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T04:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T06:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>20.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T05:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T07:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>23.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T06:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T08:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>23.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T07:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T09:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>23.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T08:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T10:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>22.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T09:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T11:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>17.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T10:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T12:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>11.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T11:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T13:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T12:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T14:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T13:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T15:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T14:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T16:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T15:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T17:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T16:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T18:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T17:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T19:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T18:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T20:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>19.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T19:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T21:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>14.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T20:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T22:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>12.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T21:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-13T23:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>12.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T22:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T00:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>11</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-13T23:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T01:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>10.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T00:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T02:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>11.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T01:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T03:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>14.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T02:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T04:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>15.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T03:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T05:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>15.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T04:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T06:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>18.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T05:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T07:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>20.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T06:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T08:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>22.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T07:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T09:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>16.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T08:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T10:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>14.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T09:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T11:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>12</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T10:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T12:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>9.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T11:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T13:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T12:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T14:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T13:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T15:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T14:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T16:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T15:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T17:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T16:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T18:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T17:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T19:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>10.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T18:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T20:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>9.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T19:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T21:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T20:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T22:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T21:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-14T23:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T22:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T00:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-14T23:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T01:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T00:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T02:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T01:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T03:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T02:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T04:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T03:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T05:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T04:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T06:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T05:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T07:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T06:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T08:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T07:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T09:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T08:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T10:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T09:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T11:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T10:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T12:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T11:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T13:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T12:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T14:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T13:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T15:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T14:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T16:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T15:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T17:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T16:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T18:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T17:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T19:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T18:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T20:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T19:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T21:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T20:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T22:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T21:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-15T23:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T22:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T00:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-15T23:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T01:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T00:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T02:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T01:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T03:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T02:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T04:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T03:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T05:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T04:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T06:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T05:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T07:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T06:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T08:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T07:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T09:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T08:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T10:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T09:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T11:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T10:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T12:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T11:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T13:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T12:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T14:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T13:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T15:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T14:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T16:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T15:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T17:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T16:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T18:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T17:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T19:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T18:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T20:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>8.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T19:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T21:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T20:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T22:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T21:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-16T23:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T22:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T00:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>7.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-16T23:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T01:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>6.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T00:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T02:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>5.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T01:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T03:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.6</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T02:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T04:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T03:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T05:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T04:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T06:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T05:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T07:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T06:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T08:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T07:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T09:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T08:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T10:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T09:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T11:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T10:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T12:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T11:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T13:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.7</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T12:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T14:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.5</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T13:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T15:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T14:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T16:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T15:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T17:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.8</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T16:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T18:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.9</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T17:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T19:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.4</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T18:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T20:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T19:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T21:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>4.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T20:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T22:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.3</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T21:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-17T23:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T22:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-18T00:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.1</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-17T23:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-18T01:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+  <measurement>
+    <location_id>10515</location_id>
+    <location_name>Szarów, ul. Spokojna</location_name>
+    <parameter>no2</parameter>
+    <value>3.2</value>
+    <unit>µg/m³</unit>
+    <datetimeUtc>2025-05-18T00:00:00Z</datetimeUtc>
+    <datetimeLocal>2025-05-18T02:00:00+02:00</datetimeLocal>
+    <timezone>Europe/Warsaw</timezone>
+    <latitude>50.0075</latitude>
+    <longitude>20.259167</longitude>
+    <country_iso/>
+    <isMobile/>
+    <isMonitor/>
+    <owner_name>Unknown Governmental Organization</owner_name>
+    <provider>GIOS</provider>
+  </measurement>
+</measurements>

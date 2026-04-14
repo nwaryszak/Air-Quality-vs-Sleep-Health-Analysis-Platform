@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker / local data
+mongo_data/
+*.db
+*.sqlite
+
+# React build
+build/
+frontend/build/
